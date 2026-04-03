@@ -1,0 +1,7 @@
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+rich==13.7.1
+requests==2.32.3
+numpy==1.26.4
+ollama==0.3.3
+# Model: llama3:latest (already installed)
